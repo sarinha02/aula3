@@ -1,0 +1,39 @@
+#banner{
+	width: 20%;
+}
+.caixa{
+	position: static;
+	width: 940px;
+	right: 0 auto;
+}
+header{
+	background: #CCCCCC;
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 125px; /*espasçamento*/
+}
+nav a{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+
+
+}
+nav{
+	position: absolute;
+	top: 70x;
+	right: 0;
+}
+.produtos li {
+	display: inline-block;
+	text-align : center;
+	width: 50%;
+	vertical-align: top;
+	margin: 0, 1.5%;
+	padding: 30px, 40px;
+	box-sizing: border-box;
+	border: 2px solid #FF0000;
+	border-color: dimgray;
+}
